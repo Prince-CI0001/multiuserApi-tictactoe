@@ -1,0 +1,17 @@
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\obj\Debug\net6.0\WebApiTicTacToe.Data.csproj.AssemblyReference.cache
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\obj\Debug\net6.0\WebApiTicTacToe.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\obj\Debug\net6.0\WebApiTicTacToe.Data.AssemblyInfoInputs.cache
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\obj\Debug\net6.0\WebApiTicTacToe.Data.AssemblyInfo.cs
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\obj\Debug\net6.0\WebApiTicTacToe.Data.csproj.CoreCompileInputs.cache
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\bin\Debug\net6.0\WebApiTicTacToe.Data.deps.json
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\bin\Debug\net6.0\WebApiTicTacToe.Data.runtimeconfig.json
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\bin\Debug\net6.0\WebApiTicTacToe.Data.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\bin\Debug\net6.0\WebApiTicTacToe.Data.pdb
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\bin\Debug\net6.0\WebApiTicTacToe.Contracts.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\bin\Debug\net6.0\WebApiTicTacToe.Contracts.pdb
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\obj\Debug\net6.0\WebApiTicTacToe.Data.csproj.CopyComplete
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\obj\Debug\net6.0\WebApiTicTacToe.Data.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\obj\Debug\net6.0\refint\WebApiTicTacToe.Data.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\obj\Debug\net6.0\WebApiTicTacToe.Data.pdb
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\obj\Debug\net6.0\WebApiTicTacToe.Data.genruntimeconfig.cache
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Data\obj\Debug\net6.0\ref\WebApiTicTacToe.Data.dll

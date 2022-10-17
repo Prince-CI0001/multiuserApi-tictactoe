@@ -1,0 +1,17 @@
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\bin\Debug\net6.0\WebApiTicTacToe.Core.deps.json
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\bin\Debug\net6.0\WebApiTicTacToe.Core.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\bin\Debug\net6.0\WebApiTicTacToe.Core.pdb
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\obj\Debug\net6.0\WebApiTicTacToe.Core.csproj.AssemblyReference.cache
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\obj\Debug\net6.0\WebApiTicTacToe.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\obj\Debug\net6.0\WebApiTicTacToe.Core.AssemblyInfoInputs.cache
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\obj\Debug\net6.0\WebApiTicTacToe.Core.AssemblyInfo.cs
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\obj\Debug\net6.0\WebApiTicTacToe.Core.csproj.CoreCompileInputs.cache
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\obj\Debug\net6.0\WebApiTicTacToe.Core.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\obj\Debug\net6.0\refint\WebApiTicTacToe.Core.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\obj\Debug\net6.0\WebApiTicTacToe.Core.pdb
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\obj\Debug\net6.0\ref\WebApiTicTacToe.Core.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\bin\Debug\net6.0\WebApiTicTacToe.Contracts.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\bin\Debug\net6.0\WebApiTicTacToe.Data.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\bin\Debug\net6.0\WebApiTicTacToe.Contracts.pdb
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\bin\Debug\net6.0\WebApiTicTacToe.Data.pdb
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Core\obj\Debug\net6.0\WebApiTicTacToe.Core.csproj.CopyComplete

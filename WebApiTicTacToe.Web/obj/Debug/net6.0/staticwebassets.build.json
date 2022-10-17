@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DXX1e/OsvSWL/tnbyzABilqqpoNF+M4ES2ZfimD3XPM=",
+  "Source": "WebApiTicTacToe.Web",
+  "BasePath": "_content/WebApiTicTacToe.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Contracts\obj\Debug\net6.0\WebApiTicTacToe.Contracts.csproj.AssemblyReference.cache
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Contracts\obj\Debug\net6.0\WebApiTicTacToe.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Contracts\obj\Debug\net6.0\WebApiTicTacToe.Contracts.AssemblyInfoInputs.cache
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Contracts\obj\Debug\net6.0\WebApiTicTacToe.Contracts.AssemblyInfo.cs
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Contracts\obj\Debug\net6.0\WebApiTicTacToe.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Contracts\bin\Debug\net6.0\WebApiTicTacToe.Contracts.deps.json
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Contracts\bin\Debug\net6.0\WebApiTicTacToe.Contracts.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Contracts\bin\Debug\net6.0\WebApiTicTacToe.Contracts.pdb
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Contracts\obj\Debug\net6.0\WebApiTicTacToe.Contracts.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Contracts\obj\Debug\net6.0\refint\WebApiTicTacToe.Contracts.dll
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Contracts\obj\Debug\net6.0\WebApiTicTacToe.Contracts.pdb
+C:\Users\PrinceGoyal\Desktop\New folder (2)\WebApiTicTacToe\WebApiTicTacToe.Contracts\obj\Debug\net6.0\ref\WebApiTicTacToe.Contracts.dll
